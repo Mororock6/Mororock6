@@ -1,6 +1,35 @@
-Hi, I’m Mororock6, but you can call me Amer!<br>
-I’m passionate about working out, listening to music, swimming, and running.<br>
-Currently diving deep into Computer Science at AASTMT, majoring in Cybersecurity.<br>
-Eager to collaborate on innovative cybersecurity projects and initiatives.<br>
-Reach out to me at Ashoushamer2004@gmail.com, +201008548758, or connect with me on LinkedIn.<br>
-Fun fact: I'm the funniest guy you will ever meet!
+# Hi, I'm Amer Ashoush
+
+Cybersecurity student focused on building practical security skills through hands-on projects, real-world experience, and continuous learning.
+
+My interests revolve around Security Operations, Incident Response, Threat Analysis, and understanding how systems can be secured against real-world attacks. I enjoy working on projects that combine problem-solving, investigation, and practical technical implementation.
+
+## Currently
+- Incident Management Intern
+- Final-year Computer Science student majoring in Cybersecurity
+- Expanding practical skills in Blue Team operations, security monitoring, and offensive security
+
+## Areas of Interest
+- Security Operations (SOC)
+- Incident Response
+- Threat Analysis
+- Vulnerability Assessment
+- Penetration Testing
+- Malware Analysis
+
+## Tech & Tools
+`Linux` `ELK Stack` `Wireshark` `Nmap` `Burp Suite` `Active Directory` `Python` `Networking`
+
+## Certifications
+- CompTIA Security+
+- ISC2 Certified in Cybersecurity (CC)
+- CCNA
+- RHCSA
+- Hack The Box CPTS (In Progress)
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/amerashoush2468  
+Email: Ashoushamer2004@gmail.com
+
+---
+*"Always learning, always building."*
