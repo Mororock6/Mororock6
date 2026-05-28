@@ -1,4 +1,4 @@
-# Hello, I'm Amer Ashoush
+# Hola, I'm Amer Ashoush
 
 Cybersecurity student focused on building practical security skills through hands-on projects, real-world experience, and continuous learning.
 
