@@ -1,4 +1,4 @@
-# Hi, I'm Amer Ashoush
+# Hello, I'm Amer Ashoush
 
 Cybersecurity student focused on building practical security skills through hands-on projects, real-world experience, and continuous learning.
 
@@ -32,7 +32,7 @@ LinkedIn: www.linkedin.com/in/amerashoush2468
 Email: 
 Ashoushamer2004@gmail.com
 Portfolio: 
-www.amerashoush.netlify.app/
+www.amerashoush.netlify.app
 
 ---
 *"Always learning, always building."*
