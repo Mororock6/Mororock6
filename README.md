@@ -28,11 +28,9 @@ My interests revolve around Security Operations, Incident Response, Threat Analy
 - Hack The Box CPTS (In Progress)
 
 ## Connect With Me
-LinkedIn: www.linkedin.com/in/amerashoush2468  
-Email: 
-Ashoushamer2004@gmail.com
-Portfolio: 
-www.amerashoush.netlify.app
+- LinkedIn: www.linkedin.com/in/amerashoush2468  
+- Email: Ashoushamer2004@gmail.com
+- Portfolio: www.amerashoush.netlify.app
 
 ---
 *"Always learning, always building."*
